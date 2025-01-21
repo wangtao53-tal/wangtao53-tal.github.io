@@ -1,10 +1,10 @@
 import type { NavigationLink, Site } from './types.ts'
 
 export const SITE: Site = {
-    author: 'Godruoyi',
-    url: 'https://godruoyi.com',
-    title: '连波的闲谈杂鱼',
-    description: 'Godruoyi\'s personal blog, I enjoy the process of building something using any technology stack',
+    author: 'Mochi',
+    url: 'https://wangtao53-tal.github.io/',
+    title: '吃不完的麻薯',
+    description: 'Mochi\'s personal blog, I enjoy the process of building something using any technology stack',
     shortDescription: '',
 }
 
@@ -31,7 +31,6 @@ export const FooterLinks = [
         links: [
             { name: 'RSS', url: '/rss.xml' },
             { name: 'Site Map', url: '/sitemap-index.xml' },
-            { name: 'Twitter', url: 'https://x.com/godruoyi' },
         ],
     },
 ]
